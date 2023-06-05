@@ -1,4 +1,4 @@
-package ru.vsu.cs.proskuryakov.listener;
+package ru.vsu.cs.proskuryakov.mas.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

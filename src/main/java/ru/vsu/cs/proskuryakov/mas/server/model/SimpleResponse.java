@@ -1,4 +1,4 @@
-package ru.vsu.cs.proskuryakov.listener.model;
+package ru.vsu.cs.proskuryakov.mas.server.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
